@@ -22,7 +22,7 @@ I am passionate about law and its impact on society, with interests in **company
 ---
 
 ## Professional Experience
-**Office of Justice M.S.Ramesh, High Court Judicature of Madras (June 2025- July 2025)**
+**Office of Justice M.S.Ramesh, High Court Judicature at Madras (June 2025- July 2025)**
 - Researched cases under POSCO Act, Goondas Act, PMLA, NIA, and CAT appeals  
 - Observed court proceedings to understand judicial reasoning and advocacy  
 - Analyzed judgments to support case preparation  
