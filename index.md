@@ -53,7 +53,7 @@ I am passionate about law and its impact on society, with interests in **company
 - **Divorce**  
   *IJLMH, 6(6), 1474–1480 (2023)*
 
--**Reparative Justice and Rehabilitation: Paving the way to Offender Reintegration in India**
+- **Reparative Justice and Rehabilitation: Paving the way to Offender Reintegration in India** 
 
 ---
 
