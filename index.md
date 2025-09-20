@@ -6,15 +6,14 @@
 ---
 
 ## Profile
-I am currently pursuing my Bachelor's Degree under **BA, LLB (Hons)** as a 3rd-year student at the School of Law, **SASTRA Deemed University**.  
+I am currently pursuing my Bachelor's Degree under **BA, LLB (Hons)** as a 4th-year student at the School of Law, **SASTRA Deemed University**.  
 I am passionate about law and its impact on society, with interests in **company law, taxation, competition law, and consumer law**.
 
 ---
 
 ## Education
 - **BA, LL.B. (Hons)** – SASTRA Deemed University  
-  CGPA: 7.9 (as of Semester 5)  
-  Member of Moot Court Society (2023)  
+  CGPA: 7.9 (as of Semester 6)  
 
 - **Commerce, General** – Kendriya Vidyalaya, Tambaram  
   12th CBSE – 80.2% (2021)  
@@ -23,6 +22,12 @@ I am passionate about law and its impact on society, with interests in **company
 ---
 
 ## Professional Experience
+**Office of Justice M.S.Ramesh, High Court Judicature of Madras (June 2025- July 2025)**
+-Researched cases under POSCO Act, Goondas Act, PMLA, NIA, and CAT appeals.
+-Observed court proceedings to gain insights into judicial reasoning and advocacy.
+-Analyzed judgments to support case preparation and arguments.
+-Prepared concise case briefs with clear legal arguments.
+
 **Office of Deputy Solicitor General – Legal Intern (Jun 2024 – Aug 2024)**  
 - Drafted legal notices regarding consumer protection  
 - Assisted in ministry-related cases  
@@ -46,7 +51,9 @@ I am passionate about law and its impact on society, with interests in **company
   [Read Paper](https://doij.org/10.10000/IJLMH.116282)  
 
 - **Divorce**  
-  *IJLMH, 6(6), 1474–1480 (2023)*  
+  *IJLMH, 6(6), 1474–1480 (2023)*
+
+-**Reparative Justice and Rehabilitation: Paving the way to Offender Reintegration in India**
 
 ---
 
