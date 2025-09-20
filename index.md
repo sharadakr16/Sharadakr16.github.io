@@ -23,11 +23,11 @@ I am passionate about law and its impact on society, with interests in **company
 
 ## Professional Experience
 **Office of Justice M.S.Ramesh, High Court Judicature of Madras (June 2025- July 2025)**
--Researched cases under POSCO Act, Goondas Act, PMLA, NIA, and CAT appeals.
--Observed court proceedings to gain insights into judicial reasoning and advocacy.
--Analyzed judgments to support case preparation and arguments.
--Prepared concise case briefs with clear legal arguments.
-
+- Researched cases under POSCO Act, Goondas Act, PMLA, NIA, and CAT appeals  
+- Observed court proceedings to understand judicial reasoning and advocacy  
+- Analyzed judgments to support case preparation  
+- Prepared concise case briefs with clear legal arguments
+  
 **Office of Deputy Solicitor General – Legal Intern (Jun 2024 – Aug 2024)**  
 - Drafted legal notices regarding consumer protection  
 - Assisted in ministry-related cases  
