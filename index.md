@@ -1,7 +1,6 @@
 # Sharada K
 
-📧 [sharada.kr16@gmail.com](mailto:sharada.kr16@gmail.com)  
-📞 8903259594  
+📧 [sharada.kr16@gmail.com](mailto:sharada.kr16@gmail.com)   
 
 ---
 
@@ -81,4 +80,3 @@ I am passionate about law and its impact on society, with interests in **company
 
 ### Contact
 📧 [sharada.kr16@gmail.com](mailto:sharada.kr16@gmail.com)  
-📞 8903259594  
